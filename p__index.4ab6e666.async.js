@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[21],{QeBL:function(n,t,e){"use strict";e.r(t);var o=e("q1tI"),a=e.n(o),c=e("Ty5D");t["default"]=function(){return a.a.createElement(c["a"],{to:"/list/policy"})}}}]);
